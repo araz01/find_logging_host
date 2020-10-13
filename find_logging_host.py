@@ -18,9 +18,8 @@ ws1.title = "Logging_info"
 
 rowdata = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "AA", "AB", "AC", "AD"]
 
-#err = ""
 Logg = "logging"
-cmd1 = "show run | i logging"
+cmd1 = "show run | sec logging"
 
 i = 2
 
